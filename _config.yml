@@ -214,9 +214,9 @@ gentie:
 
 gitalk:
   githubID: fiendoghx
-  repo: https://github.com/fiendoghx/blog_source
-  ClientID: 501f53d34eb40722c1f8
-  ClientSecret: 1af4e845c362b2e720651f2fc7ee0fa3a224ee49
+  repo: fiendoghx.github.io
+  ClientID: 
+  ClientSecret: 
   adminUser: fiendoghx
   distractionFreeMode: true
   language: zh-CN
