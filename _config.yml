@@ -72,7 +72,7 @@ bottom_text: ©2019-2020 fiendo
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
-reward: true
+reward: false
 # true 开启打赏功能
 
 searchAll: false
@@ -190,10 +190,13 @@ friends:
 
 ##########评论设置#############
 comment:
-  on: false
-  type: gitalk  # 评论系统：gitalk、disqus、gentie、gitment,注意：使用时，在下方对应位置进行配置
-  comment_count: true  # 文章标题下方显示评论数
-  preload_comment: false  # 预加载评论区
+  on: true
+  # 评论系统：gitalk、disqus、gentie、gitment,注意：使用时，在下方对应位置进行配置
+  type: gitalk
+  # 文章标题下方显示评论数
+  comment_count: true
+  # 预加载评论区
+  preload_comment: true
   ## false: 当点击评论条等区域时再加载评论模块
   ## true: 页面加载时加载评论区
 # 各评论系统配置 ↓↓
@@ -211,9 +214,9 @@ gentie:
 
 gitalk:
   githubID: fiendoghx
-  repo: fiendoghx.github.io
-  ClientID:
-  ClientSecret:
+  repo: https://github.com/fiendoghx/blog_source
+  ClientID: 501f53d34eb40722c1f8
+  ClientSecret: 1af4e845c362b2e720651f2fc7ee0fa3a224ee49
   adminUser: fiendoghx
   distractionFreeMode: true
   language: zh-CN
