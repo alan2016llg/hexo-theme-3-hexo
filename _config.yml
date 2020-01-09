@@ -12,7 +12,7 @@ link:
   theme: color # 链接样式，color: 彩色图标  white: 黑白图标
   items:
     rss:
-    github: https://github.com/fiendoghx
+    github: https://github.com/alan2016llg
     facebook:
     twitter:
     linkedin:
@@ -24,10 +24,10 @@ link:
     csdn:
     oschina:
     juejin:
-    email: fiendo@foxmail.com
-    qq: 285380724
+    email: alan2016llg@163.com
+    qq: 
     kugou:
-    neteasemusic: https://music.163.com/#/user/home?id=560787133
+    neteasemusic: https://music.163.com/#/user/home?id=355781913
 
 ##########多作者模式############
 author:
@@ -66,9 +66,9 @@ menu:
       type: 1  # 跳转类型 1：站内异步跳转
 
 # 文末声明
-article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 fiendo@foxmail.com
+article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 alan2016llg@163.com
 
-bottom_text: ©2019-2020 fiendo
+bottom_text: ©2019-2020 alan
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
@@ -213,11 +213,11 @@ gentie:
   # 网易云跟帖暂时不支持查询评论数，所以启用时，把评论数关掉，上方comment_count: false。
 
 gitalk:
-  githubID: fiendoghx
-  repo: fiendoghx.github.io
+  githubID: alan2016llg
+  repo: alan.github.io
   ClientID: 
   ClientSecret: 
-  adminUser: fiendoghx
+  adminUser: liulunguang
   distractionFreeMode: true
   language: zh-CN
   perPage: 10
@@ -234,8 +234,8 @@ gitalk:
 
 
 gitment:
-  owner: fiendoghx
-  repo: fiendoghx.github.io
+  owner: alan2016llg
+  repo: alan.github.io
   client_id:
   client_secret:
   # gitment : 通过github issue实现的评论系统
