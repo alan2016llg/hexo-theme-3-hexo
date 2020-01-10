@@ -214,7 +214,7 @@ gentie:
 
 gitalk:
   githubID: alan2016llg
-  repo: alan.github.io
+  repo: alan2016llg.github.io
   ClientID: 
   ClientSecret: 
   adminUser: liulunguang
@@ -235,7 +235,7 @@ gitalk:
 
 gitment:
   owner: alan2016llg
-  repo: alan.github.io
+  repo: alan2016llg.github.io
   client_id:
   client_secret:
   # gitment : 通过github issue实现的评论系统
