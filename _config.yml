@@ -217,7 +217,7 @@ gitalk:
   repo: alan2016llg.github.io
   ClientID: 
   ClientSecret: 
-  adminUser: liulunguang
+  adminUser: alan2016llg
   distractionFreeMode: true
   language: zh-CN
   perPage: 10
